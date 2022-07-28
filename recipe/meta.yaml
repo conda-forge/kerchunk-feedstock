@@ -23,6 +23,7 @@ requirements:
     - fsspec
     - python >=3.7
     - ujson
+    - numcodecs
 
 test:
   imports:
