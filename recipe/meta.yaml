@@ -27,7 +27,6 @@ requirements:
 
 test:
   imports:
-    - fsspec_reference_maker
     - kerchunk
   commands:
     - pip check
