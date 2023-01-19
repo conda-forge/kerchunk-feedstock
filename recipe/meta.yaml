@@ -1,5 +1,5 @@
 {% set name = "kerchunk" %}
-{% set version = "0.0.9" %}
+{% set version = "0.1.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/kerchunk-{{ version }}.tar.gz
-  sha256: e02906ebe47c830c29194bf63623c5d5cfef3d458659a62dd9fbccaf8a5a3642
+  sha256: 5b1c60cb856e8e6464b6126eaae066ccf99bba44f3bba006a9d2a605f51adb0a
 
 build:
   number: 0
@@ -27,7 +27,6 @@ requirements:
 
 test:
   imports:
-    - fsspec_reference_maker
     - kerchunk
   commands:
     - pip check
