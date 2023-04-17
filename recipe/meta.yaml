@@ -1,5 +1,5 @@
 {% set name = "kerchunk" %}
-{% set version = "0.1.0" %}
+{% set version = "0.1.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/kerchunk-{{ version }}.tar.gz
-  sha256: 5b1c60cb856e8e6464b6126eaae066ccf99bba44f3bba006a9d2a605f51adb0a
+  sha256: 10da10dfcf589352885a5e110c3c458852935e0c2e08153a857093b880fbc98c
 
 build:
   number: 0

@@ -1,11 +1,11 @@
-About kerchunk
-==============
+About kerchunk-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kerchunk-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/fsspec/kerchunk
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/kerchunk-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions to make reference descriptions for ReferenceFileSystem
 
