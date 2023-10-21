@@ -22,7 +22,7 @@ requirements:
   run:
     - fsspec
     - python >=3.7
-    - numcodecs <= 0.11
+    - numcodecs <=0.11
     - ujson
     - zarr
 
