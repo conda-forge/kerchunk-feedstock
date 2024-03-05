@@ -145,4 +145,5 @@ Feedstock Maintainers
 
 * [@martindurant](https://github.com/martindurant/)
 * [@rsignell-usgs](https://github.com/rsignell-usgs/)
+* [@valeriupredoi](https://github.com/valeriupredoi/)
 
