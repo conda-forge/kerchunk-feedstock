@@ -1,5 +1,6 @@
 {% set name = "kerchunk" %}
 {% set version = "0.2.7" %}
+{% set python_min = "3.9" %}
 
 
 package:
